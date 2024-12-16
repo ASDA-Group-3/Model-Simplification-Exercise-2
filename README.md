@@ -57,7 +57,6 @@ This exercise focuses on building and evaluating regression models for three dif
 ## Conclusion
 - The exercise demonstrated the trade-offs between model complexity and performance.
 - By focusing on parsimony, we ensured the models are interpretable and avoid overfitting.
-- **Future work** could involve exploring non-linear models, feature engineering, or automated feature selection techniques.
 
 ## How to Run the Code
 
