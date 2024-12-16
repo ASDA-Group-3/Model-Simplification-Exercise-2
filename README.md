@@ -1,7 +1,4 @@
-# README File for Model Parsimony Project
-
-## Project Title:  
-**Finding the Most Parsimonious Model: Analyzing SplitYield, Happiness Score, and House Prices**
+# Finding the Most Parsimonious Model: Analyzing SplitYield, Happiness Score, and House Prices
 
 ## Introduction
 
